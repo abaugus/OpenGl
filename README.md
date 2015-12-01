@@ -1,2 +1,2 @@
 # 2playerTicTacToe
-Tic Tac Toe Game for 2 player
+Tic Tac Toe Game for 2 player using OpenGl
